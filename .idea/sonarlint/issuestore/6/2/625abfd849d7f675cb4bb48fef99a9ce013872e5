@@ -1,0 +1,19 @@
+
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(«ß«œýÿÿÿÿ8¼§Çº¶1
+7
+java:S1220""Move this file to a named package.8½§Çº¶1
+]
+java:S1854";Remove this useless assignment to local variable "codigo2".(ú½¦Èþÿÿÿÿ8Û§Çº¶1
+]
+java:S1854";Remove this useless assignment to local variable "codigo1".(ÝÝÿ¯ýÿÿÿÿ8Û§Çº¶1
+L	java:S106"+Replace this use of System.out by a logger.(¸‘àÌÿÿÿÿÿ8å§Çº¶1
+L	java:S106
+"+Replace this use of System.out by a logger.(¼ÄØ•ÿÿÿÿÿ8ç§Çº¶1
+N
+java:S1481",Remove this unused "codigo1" local variable.(ÝÝÿ¯ýÿÿÿÿ8ê§Çº¶1
+L	java:S106"+Replace this use of System.out by a logger.(å˜ØÀÿÿÿÿÿ8í§Çº¶1
+N
+java:S1481",Remove this unused "codigo2" local variable.(ú½¦Èþÿÿÿÿ8î§Çº¶1
+s
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(—žåïÿÿÿÿÿ8ñ§Çº¶1
+L	java:S106"+Replace this use of System.out by a logger.(—žåïÿÿÿÿÿ8ò§Çº¶1

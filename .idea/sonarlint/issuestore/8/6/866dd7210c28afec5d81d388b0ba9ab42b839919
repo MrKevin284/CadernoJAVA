@@ -1,0 +1,11 @@
+
+m	java:S117	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–½¦É8şğª‡·1
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(á•§Îúÿÿÿÿ8€ñª‡·1
+7
+java:S1220""Move this file to a named package.8ñª‡·1
+]	java:S125"<This block of commented-out lines of code should be removed.(ŸÃ’Ùûÿÿÿÿ8ñ×¯‡·1
+X	java:S125"<This block of commented-out lines of code should be removed.(Â…å·8×Ë°‡·1
+L	java:S106"+Replace this use of System.out by a logger.(šÁ­áÿÿÿÿÿ8—ñª‡·1
+n
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(·Ş¼ˆ8›ñª‡·1
+G	java:S106"+Replace this use of System.out by a logger.(·Ş¼ˆ8œñª‡·1
