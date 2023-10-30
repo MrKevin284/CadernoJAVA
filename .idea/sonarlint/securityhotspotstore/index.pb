@@ -27,12 +27,25 @@ K
 src/AntecessorSucessor.java,3\7\37e5a9aab69979e1ecb628c8284e6cd824af8e50
 ]
 -.idea/sonarlint/securityhotspotstore/index.pb,8\8\88a9255124c95bdc913197c120a8d560edc59c8e
-:
-
-.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
 Å
 Q.idea/sonarlint/securityhotspotstore/1/6/163bbaa49c30a2b97488f7424e7d5ba129dc3fe0,7\5\75476b1feb2f083c810721dedfdfcea46bd14793
 Å
 Q.idea/sonarlint/securityhotspotstore/d/8/d8c0c5a2adbf5d39ab2e700fe4466c95f3238d84,1\5\15cf39d5d5ba34d1515dbe4f3c429e435398a4b6
 Å
 Q.idea/sonarlint/securityhotspotstore/f/9/f9288a6e07df7d3bc8f6862a1d0b29d8873c3e46,3\4\3498c6d02bbda757d77fe9da4e76de221e4811f9
+P
+ atvidades/src/Maiorq20print.java,8\f\8f6a6dd5630d28e97c0efe744716b163f866aba0
+O
+atvidades/src/somaInteiros.java,9\4\94671485aac573976cc91fb806506c756e704211
+Z
+*atvidades/src/Somacomadicionaloumenos.java,f\4\f497ac3f5ee75b31693b17e1727294ebfe3f5b34
+Z
+*atvidades/src/imprimir_raizouquadrado.java,7\6\760287773fd687718fece78af71afdb2ecdde6a3
+N
+atvidades/src/nultiplode3.java,0\6\0646037c67349b44421eb7a015065bc3667954b8
+P
+ atvidades/src/Divisivelpor5.java,c\9\c9d09dc6fa75739f97166e5ed4a09c1cdb5743f6
+L
+atvidades/src/multde3e7.java,1\e\1e923a257bf22295a25094c91ae1cb14c30f8280
+Q
+!atvidades/src/multiplode1052.java,5\8\581f3ce15916bfb46083b3f4e32be37886f19f83
